@@ -9,7 +9,7 @@ A simple and fun Tic Tac Toe game built using **HTML, CSS, and JavaScript**.
 - Winner highlight
 
 ## 🖼️ Screenshot
-![Tic Tac Toe](./screenshot.png) 
+![Tic Tac Toe](./tic_tac_toe.png) 
 
 ## 📁 Folder Structure 
 ```├── index.html ├── style.css ├── script.js ```
