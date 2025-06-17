@@ -3,7 +3,6 @@
 A simple and fun Tic Tac Toe game built using **HTML, CSS, and JavaScript**. 
 
 ## 🚀 Features
-- Two-player mode
 - Responsive design
 - Game reset button
 - Winner highlight
@@ -12,7 +11,11 @@ A simple and fun Tic Tac Toe game built using **HTML, CSS, and JavaScript**.
 ![Tic Tac Toe](./tic_tac_toe.png) 
 
 ## 📁 Folder Structure 
-```├── index.html ├── style.css ├── script.js ```
+```text
+├── index.html
+├── style.css
+├── script.js
+
 
 ## 🌐 Live Demo 
 
