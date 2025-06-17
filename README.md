@@ -15,7 +15,7 @@ A simple and fun Tic Tac Toe game built using **HTML, CSS, and JavaScript**.
 ├── index.html
 ├── style.css
 ├── script.js
-
+```
 
 ## 🌐 Live Demo 
 
